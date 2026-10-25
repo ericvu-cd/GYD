@@ -1,0 +1,140 @@
+{
+  "schema": "guanyidu-survey/1",
+  "sessionId": "dd005edb-7431-43bf-8ab7-823d32ed50dd",
+  "createdAt": "2026-10-25T07:06:38.208Z",
+  "operator": "",
+  "points": [
+    {
+      "id": "A",
+      "name": "刺桐",
+      "kind": "story"
+    },
+    {
+      "id": "B",
+      "name": "酒瓶椰子、水筆仔與潮溝",
+      "kind": "story"
+    },
+    {
+      "id": "C",
+      "name": "紅刺露兜",
+      "kind": "story"
+    },
+    {
+      "id": "D",
+      "name": "欖仁樹",
+      "kind": "story"
+    },
+    {
+      "id": "E",
+      "name": "大葉山欖",
+      "kind": "story"
+    },
+    {
+      "id": "F",
+      "name": "白千層",
+      "kind": "story"
+    },
+    {
+      "id": "G",
+      "name": "水黃皮",
+      "kind": "story"
+    },
+    {
+      "id": "H",
+      "name": "落羽松、羅比親王海棗",
+      "kind": "story"
+    },
+    {
+      "id": "I",
+      "name": "大花紫薇、小花紫薇",
+      "kind": "story"
+    },
+    {
+      "id": "J",
+      "name": "黃連木與地方故事",
+      "kind": "story"
+    },
+    {
+      "id": "K",
+      "name": "構樹",
+      "kind": "story"
+    },
+    {
+      "id": "L",
+      "name": "黃槿",
+      "kind": "story"
+    },
+    {
+      "id": "M",
+      "name": "臺灣海桐",
+      "kind": "story"
+    },
+    {
+      "id": "N",
+      "name": "海茄苳、招潮蟹與河口",
+      "kind": "story"
+    },
+    {
+      "id": "O",
+      "name": "木麻黃與海岸",
+      "kind": "story"
+    },
+    {
+      "id": "P",
+      "name": "海檬果與攀木蜥蜴",
+      "kind": "story"
+    },
+    {
+      "id": "Q",
+      "name": "紫蝶蜜境、蜜源與食草",
+      "kind": "story"
+    },
+    {
+      "id": "R",
+      "name": "高士佛澤蘭與斑蝶",
+      "kind": "story"
+    },
+    {
+      "id": "S",
+      "name": "羊角藤與下一代",
+      "kind": "story"
+    },
+    {
+      "id": "X01",
+      "name": "工具測試點（非現場資料）",
+      "kind": "reference"
+    }
+  ],
+  "records": [
+    {
+      "id": "2fd9566f-0b5f-45eb-9800-9b75a8666a55",
+      "pointId": "X01",
+      "pointName": "工具測試點（非現場資料）",
+      "captureMode": "manual",
+      "latitude": 0,
+      "longitude": 0,
+      "accuracyMeters": null,
+      "gpsTimestamp": null,
+      "savedAt": "2026-10-25T07:11:19.980Z",
+      "startedAt": "2026-10-25T07:11:17.951Z",
+      "durationSeconds": 0,
+      "coordinateReference": "WGS84",
+      "siteRole": "path-junction",
+      "note": "手動來源：功能測試資料，非現場座標",
+      "samples": [],
+      "sampleSpreadMeters": null
+    }
+  ],
+  "notes": {
+    "X01": "手動來源：功能測試資料，非現場座標"
+  },
+  "roles": {
+    "X01": "path-junction"
+  },
+  "exportedAt": "2026-10-25T07:29:20.980Z",
+  "coordinateReference": "WGS84 (browser Geolocation latitude/longitude)",
+  "representativePolicy": "Each GPS record uses the sample with smallest reported accuracyMeters; latest saved record selected per point.",
+  "selectedRecordIds": [
+    "2fd9566f-0b5f-45eb-9800-9b75a8666a55"
+  ]
+}
